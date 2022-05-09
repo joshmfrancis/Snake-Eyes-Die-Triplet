@@ -1,6 +1,6 @@
 Created: 04/07/2022
 
-This program makes use of pre-written code from my textbook (Die.java) and modified code (Die Triplet) and (Roll Triplet) that I modified to roll three dice 5000 times while countng every single time the dice all land on one (Makes use of multiple classes and methods).
+This program makes use of pre-written code from my textbook (Die.java) and modified code (DieTriplet.java) and (RollTriplet.java) that I modified to roll three dice 5000 times while countng every single time the dice all land on one (Makes use of multiple classes and methods).
 
 Here is a quick test of the program: 
 
